@@ -173,5 +173,3 @@ For questions about this design system:
 4. Follow the implementation guide for setup
 
 ---
-
-**Note**: This documentation is based on the actual RiverWatts Cloud Dashboard codebase and provides exact specifications for recreating the design in Figma.

@@ -89,4 +89,4 @@ The application is optimized for deployment on modern hosting platforms like Ver
 
 ## License
 
-© 2024 RiverWatts Energy Systems. All rights reserved.
+© 2025 RiverWatts Energy Systems. All rights reserved.
